@@ -699,10 +699,8 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "TDD on Rails"
-       url: "https://github.com/ga-wdi-lessons/rspec"
+       title: "Lab: Hogwarts"
        lead: "Jesse"
-       support: "Adrian"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
