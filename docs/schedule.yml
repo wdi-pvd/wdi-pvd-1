@@ -118,7 +118,7 @@
        support: "Nayana"
     - "1:00AM - 4:00PM":
        title: "jQuery DOM"
-       url: "https://github.com/danman01/wdi-pvd-jquery-dom/blob/master/README.md"
+       url: "https://github.com/ga-wdi-pvd/wdi-pvd-jquery-dom/blob/master/README.md"
        lead: "Danny"
        support: "Nayana"
     - "4:00PM - 5:00PM":
@@ -175,12 +175,12 @@
        support: ""
     - "10:00AM - 12:00PM":
        title: "Sass"
-       url: "https://github.com/JosephinaTavera/sass-intro/blob/master/sass411.md"
+       url: "https://github.com/ga-wdi-pvd/sass-intro"
        lead: "Josie"
        support: "Danny"
     - "1:00PM - 4:00PM":
        title: "API/AJAX"
-       url: "https://github.com/tvlangley/api-intro-with-ajax/blob/master/README.md"
+       url: "https://github.com/ga-wdi-pvd/api-intro-with-ajax"
        lead: "Toni"
        support: "Eric"
     - "4:00PM - 5:00PM":
@@ -263,9 +263,9 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "Homework:":
+    - "Homework":
        title: "Try Ruby"
-       url: "https://github.com/tvlangley/try-ruby"
+       url: "https://github.com/ga-wdi-pvd/try-ruby"
        lead: ""
        support: ""
   - day:
@@ -274,23 +274,28 @@
        lead: "Danny"
        support: ""
     - "9:00AM - 10:00AM":
-       title: "JS Review / OOJS"
-       lead: "Danny"
+       title: "Finish Project 1 Presentations"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Intro To Ruby"
-       url: "https://github.com/tvlangley/ruby-intro"
+       url: "https://github.com/ga-wdi-pvd/ruby-intro"
        lead: "Toni"
        support: "Eric"
     - "1:30PM - 4:00PM":
        title: "Ruby Enums"
-       url: "https://github.com/danman01/ruby-enumerables/blob/master/README.md"
+       url: "https://github.com/ga-wdi-pvd/ruby-enumerables/blob/master/README.md"
        lead: "Danny"
        support: "Josie"
     - "Homework":
+       title: "Temperature Converter"
+       url: "https://github.com/ga-wdi-pvd/temperature_converter_ruby"
+       lead: ""
+       support: ""
+    - "Homework":
        title: "High Card!"
-       url: "https://github.com/danman01/high_card"
-       lead: "Eric"
+       url: "https://github.com/ga-wdi-pvd/high_card"
+       lead: ""
        support: ""
     - "5:00PM - 6:00PM":
        title: "Office Hours"
@@ -299,7 +304,7 @@
   - day:
     - "9:00AM - 12:30PM":
        title: "Ruby Enums Lab"
-       url: "https://github.com/ga-wdi-exercises/state_capitals"
+       url: "https://github.com/ga-wdi-pvd/state_capitals"
        lead: "Eric"
        support: ""
     - "1:30PM - 2:30PM":
@@ -308,10 +313,10 @@
        lead: "Eric"
        support: "Josie"
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: "Julie"
-       support: ""
+       title: "Ruby OOP 1"
+       url: "https://github.com/ga-wdi-lessons/ruby-oop"
+       lead: "Danny"
+       support: "Eric"
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
@@ -319,22 +324,27 @@
        support: ""
     - "9:00AM - 10:00AM":
        title: "Ruby Diagnostic"
-       url: "https://github.com/tvlangley/ruby-diagnostic"
+       url: "https://github.com/ga-wdi-pvd/ruby-diagnostic"
        lead: "Josie"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Ruby OOP 1"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop"
-       lead: "Danny"
-       support: "Eric"
-    - "1:30PM - 4:00PM":
        title: "Ruby OOP 2"
-       url: "https://github.com/tvlangley/ruby-oop-inheritance"
+       url: "https://github.com/ga-wdi-pvd/ruby-oop-inheritance"
        lead: "Toni"
-       support: "Josie"
+       support: "Danny"
+    - "1:30PM - 4:00PM":
+       title: "Domain Model / ERD"
+       url: "https://github.com/ga-wdi-pvd/sql-erd/blob/master/readme2.md"
+       lead: "Josie"
+       support: "Eric"
     - "4:00PM - 5:00PM":
-       title: "Lab"
-       url: ""
+       title: "Lab - Morse Code"
+       url: "https://github.com/ga-wdi-pvd/ruby-morse-code-challenge"
+       lead: "Josie"
+       support: ""
+    - "Homework":
+       title: "Hunt the Wumpus"
+       url: "https://github.com/ga-wdi-pvd/wumpus"
        lead: ""
        support: ""
     - "5:00PM - 6:00PM":
@@ -348,25 +358,30 @@
        lead: "Danny"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Gladiator Lab"
-       url: "https://github.com/ga-wdi-exercises/js-gladiator"
-       lead: ""
+       title: "Intro to SQL"
+       url: "https://github.com/ga-wdi-pvd/sql-intro"
+       lead: "Toni"
        support: ""
-    - "1:00PM - 4:00PM":
-       title: "ERD"
-       url: "https://github.com/ga-wdi-lessons/sql-erd"
-       lead: "Josie"
-       support: "Toni"
+    - "1:30PM - 4:00PM":
+       title: "Gladiator Lab"
+       url: "https://github.com/ga-wdi-pvd/gladiator"
+       lead: "Danny"
+       support: ""
     - "4:00PM - 5:00PM":
-       title: "Lab"
+       title: "Example Teach: Gladiator"
        url: ""
+       lead: "Danny"
+       support: ""
+    - "Homework":
+       title: "NBA Stats"
+       url: "https://github.com/ga-wdi-pvd/nba_stats"
        lead: ""
        support: ""
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
-       url: ""
-       lead: "Josie"
+       title: "Power of 2 - Code Challenge"
+       url: "https://www.codewars.com/kata/534d0a229345375d520006a0"
+       lead: "Eric"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Active Record"
@@ -413,21 +428,21 @@
        lead: "Toni"
        support: ""
   - day:
-    - "9:00AM - 12:30PM":
+    - "10:00AM - 12:30PM":
+       title: "Outcomes"
+       url: ""
+       lead: "Eric"
+       support: ""
+    - "1:30PM - 4:00PM":
        title: "Sinatra Lab"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "Eric"
        support: ""
-    - "1:30PM - 2:30PM":
+    - "4:00PM - 5:00PM":
        title: "Lab walk through"
        url: ""
        lead: "Eric"
        support: "Josie"
-    - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
-       lead: "Julie"
-       support: ""
   - day:
     - "8:00AM - 9:00AM":
        title: "Office Hours"
@@ -622,53 +637,191 @@
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00PM":
+       title: "Class Decided Review"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
+  - day:
+    - "9:00AM - 10:00PM":
+       title: "Student Led Standups"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
+  - day:
+    - "9:00AM - 10:00PM":
+       title: "Student Led Standups"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
+  - day:
+    - "9:00AM - 10:00PM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 10-12, Josie + Danny"
+       support: ""
+    - "1:00PM - 5:00PM":
+       title: "Project 2"
+       url: "https://github.com/ga-wdi-exercises/project2"
+       lead: "Open Office Hours 2-4, Toni + Eric"
+       support: ""
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Finish Up Project 2"
+       lead: ""
+       support: ""
+    - "1:30PM - 3:30PM":
+       title: "Science Fair Project 2 Presentations"
+       lead: ""
+       support: ""
+    - "3:30PM - 5:00PM":
+       title: "Intro To Angular Self Study"
+       url: "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+       lead: "Code School"
+       support: "Danny, Eric, Toni, Josie"
+  - day:
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Intro To Angular"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "UI Router"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Angular Resources"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Angular AJAX Refactor"
+       url: ""
+       lead: ""
+       support: ""
+    - "2:30PM - 4:30PM":
+       title: "Employer Panel w/ Tech Hire"
+       url: "https://techhire.org/community/rhode_island/"
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Diagnostic"
+       url: ""
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Rails API featuring Angular"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 4:00PM":
+       title: "Firebase"
+       url: ""
+       lead: ""
+       support: ""
+    - "4:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "1:30PM - 3:00PM":
+       title: "Lab"
+       url: ""
+       lead: ""
+       support: ""
+    - "3:00PM - 5:00PM":
+       title: "Lab Walkthrough"
+       url: ""
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "9:00AM - 10:00AM":
+       title: "Code Challenge"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "10:00AM - 11:00AM":
+       title: "Mongo"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "11:00AM - 12:30PM":
+       title: "Node.JS"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "1:30PM - 4:00PM":
+       title: "Express.JS"
+       url: ""
        lead: ""
        support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
-       lead: ""
-       support: ""
-  - day:
-    - "9:00AM - 5:00PM":
-       title: "No Class"
+    - "5:00PM - 5:00PM":
+       title: "Lab"
+       url: ""
        lead: ""
        support: ""
   - day:
